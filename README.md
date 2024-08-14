@@ -4,7 +4,7 @@
 
 </h1>
 <div align="center">
-Contact <img src="https://web.archive.org/web/20090822020555im_/http://geocities.com/afs4ever/email06.gif" alt="mailretro" align="center" width="20">
+Contact: <img src="https://web.archive.org/web/20090822020555im_/http://geocities.com/afs4ever/email06.gif" alt="mailretro" align="center" width="20">
 </div>
 
 
