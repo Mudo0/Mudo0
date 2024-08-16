@@ -55,8 +55,12 @@ Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-x
   <a href="https://steamcommunity.com/id/Salvelucifer"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width=70/></a>
 </p>
 
-  
-<img src="https://web.archive.org/web/20090903074517im_/http://geocities.com/coding1984/old/images/other/FP2000.GIF" alt="Microsoft frontpage" align="center" width="128">
+
+  <img src="https://web.archive.org/web/20090903074517im_/http://geocities.com/coding1984/old/images/other/FP2000.GIF" alt="Microsoft frontpage" align="center" width="128">
+  <br>
+  <img src="https://profile-counter.glitch.me/Mudo0/count.svg?"  />
+ 
 </div>
+
 
 
