@@ -48,14 +48,15 @@ Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-x
 <p align="center">
   <a href="mailto:mateodellungo@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width=70/></a>
   <a href="https://www.linkedin.com/in/mateo-del-lungo-610398210/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width=70/></a>
-  <a href="https://www.youtube.com/@mudo4382"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube" width=70/></a>
   <a href="https://www.instagram.com/m_ud0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width=70/></a>
   <a href="https://www.twitch.tv/mudo798"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch" width=70/></a>
   <a href="https://ar.pinterest.com/mateodellungo/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width=70/></a>
-  <a href="https://steamcommunity.com/id/Salvelucifer"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width=70/></a>
 </p>
 
-
+  <!--
+  <a href="https://www.youtube.com/@mudo4382"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube" width=70/></a>
+  <a href="https://steamcommunity.com/id/Salvelucifer"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width=70/></a>
+  -->
   <img src="https://web.archive.org/web/20090903074517im_/http://geocities.com/coding1984/old/images/other/FP2000.GIF" alt="Microsoft frontpage" align="center" width="128">
   <br>
   <img src="https://profile-counter.glitch.me/Mudo0/count.svg?"  />
