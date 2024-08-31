@@ -36,7 +36,8 @@ Habilidades:
   / PYTHON <img src="https://www.svgrepo.com/show/452091/python.svg" align=center width=20>
 
 <img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo .NET <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" align=center width=20>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudo0)](https://github.com/Mudo0/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudo0)](https://github.com/Mudo0/github-readme-stats)
 
 Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-xWAEGygJrf7U&si=T5G2t3QAzKpbhpVG"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/9915918/original_687a76a221a1de19a902cbdf89c2b7d6.gif?1608099909?bc=0" width="30"></a></h3>
 <div align="center">
