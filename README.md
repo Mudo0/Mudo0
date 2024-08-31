@@ -23,7 +23,7 @@ class Developer:
 
 me.say_hi()
 ```
-
+[![wakatime](https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg)](https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e)
 
 
 <div align="center">
