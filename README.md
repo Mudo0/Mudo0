@@ -30,13 +30,13 @@ me.say_hi()
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/9983446/original_69d1f0a68d256ff09aca9e86ed800a11.gif?1608614986?bc=0" alt="Puter" align="center" width="128">
 
 Habilidades: 
-  / C# <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" align=center width=20> 
+  / C# <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" align=center width=20>
+  / .NET <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" align=center width=20>
   / HTML <img src="https://www.svgrepo.com/show/452228/html-5.svg" align=center width=20> 
   / SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" align=center width=20> 
   / PYTHON <img src="https://www.svgrepo.com/show/452091/python.svg" align=center width=20>
 
-<img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo .NET <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" align=center width=20>
-
+<img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo ASP.NET
 
 
 Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-xWAEGygJrf7U&si=T5G2t3QAzKpbhpVG"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/9915918/original_687a76a221a1de19a902cbdf89c2b7d6.gif?1608099909?bc=0" width="30"></a></h3>
