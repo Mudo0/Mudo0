@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hola <img src="https://web.archive.org/web/20090725132514im_/http://www.geocities.com/akbeck98/waving.gif" alt="Hand">, Soy Mateo Del Lungo 
 <img src="https://web.archive.org/web/20090821073130im_/http://geocities.com/toddc5quad/images/smile.gif" alt="Smile" align="center" width="20">
@@ -23,8 +24,33 @@ class Developer:
 
 me.say_hi()
 ```
-[![wakatime](https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg)](https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e)
+<!--TARJETA DE HORAS EN WAKATIME-->
+<div align="center">
+<a href="https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e">
+  <img align="center" src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg">
+</a>
+</div>
+<!--TARJETA DE HORAS EN WAKATIME END-->
 
+<!--ESPACIO EN BLANCO-->
+<div>
+  <p></p>
+</div>
+<!--ESPACIO EN BLANCO END-->
+
+<div align="center">
+<!--TARJETA DE LENGUAJES DE WAKATIME-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudo0&layout=compact" />
+</a>
+<!--TARJETA DE LENGUAJES DE WAKATIME END-->
+</div>
+
+<!--ESPACIO EN BLANCO-->
+<div>
+  <p></p>
+</div>
+<!--ESPACIO EN BLANCO END-->
 
 <div align="center">
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/9983446/original_69d1f0a68d256ff09aca9e86ed800a11.gif?1608614986?bc=0" alt="Puter" align="center" width="128">
@@ -53,7 +79,6 @@ Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-x
   <a href="mailto:mateodellungo@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width=70/></a>
   <a href="https://www.linkedin.com/in/mateo-del-lungo-610398210/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width=70/></a>
   <a href="https://www.instagram.com/m_ud0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width=70/></a>
-  <a href="https://www.twitch.tv/mudo798"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch" width=70/></a>
   <a href="https://ar.pinterest.com/mateodellungo/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width=70/></a>
 </p>
 
