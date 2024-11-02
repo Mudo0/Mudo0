@@ -64,10 +64,10 @@ Habilidades:
   / SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" align=center width=20> 
   / PYTHON <img src="https://www.svgrepo.com/show/452091/python.svg" align=center width=20>
 
-<img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo ASP.NET
+<img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo JavaScript
 
 
-Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-xWAEGygJrf7U&si=T5G2t3QAzKpbhpVG"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/9915918/original_687a76a221a1de19a902cbdf89c2b7d6.gif?1608099909?bc=0" width="30"></a></h3>
+Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-xWAEGygJrf7U&si=T5G2t3QAzKpbhpVG" target="_blank"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/9915918/original_687a76a221a1de19a902cbdf89c2b7d6.gif?1608099909?bc=0" width="30"></a></h3>
 <div align="center">
   
 </div>
@@ -76,10 +76,10 @@ Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-x
 <h2 align="center">Links <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916384/original_bc0d33c7a2d18029b1815b00c21c7b7a.gif?1608103863?bc=0"> </h2>
 
 <p align="center">
-  <a href="mailto:mateodellungo@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width=70/></a>
-  <a href="https://www.linkedin.com/in/mateo-del-lungo-610398210/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width=70/></a>
-  <a href="https://www.instagram.com/m_ud0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width=70/></a>
-  <a href="https://ar.pinterest.com/mateodellungo/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width=70/></a>
+  <a href="mailto:mateodellungo@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width=70/></a>
+  <a href="https://www.linkedin.com/in/mateo-del-lungo-610398210/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width=70/></a>
+  <a href="https://www.instagram.com/m_ud0" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width=70/></a>
+  <a href="https://ar.pinterest.com/mateodellungo/" target="_blank"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width=70/></a>
 </p>
 
   <!--
