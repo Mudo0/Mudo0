@@ -12,7 +12,7 @@ Contact: <a href="mailto:mateodellungo@gmail.com"> <img src="https://web.archive
 <!--TARJETA DE HORAS EN WAKATIME-->
 <div align="center">
 <a href="https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e">
-  <img src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg?style=for-the-badge" alt="Total time coded since Aug 31 2024" />
+  <img src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg?style=for-the-badge" alt="Total time coded since Aug 31 2024" width="200"/>
 </a>
 </div>
 <!--TARJETA DE HORAS EN WAKATIME END-->
