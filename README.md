@@ -43,6 +43,7 @@ Contact: <a href="mailto:mateodellungo@gmail.com"> <img src="https://web.archive
 Skills: 
   / C# <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" align=center width=20>
   / .NET <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" align=center width=20>
+  / Java
   / HTML <img src="https://www.svgrepo.com/show/452228/html-5.svg" align=center width=20> 
   / CSS <img src="https://www.svgrepo.com/show/452185/css-3.svg" align=center width=20>
   / JavaScript <img src="https://www.svgrepo.com/show/452045/js.svg" align=center width=20>
