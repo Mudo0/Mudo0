@@ -3,44 +3,65 @@
 
 </p>
 
-<img align="right" width="400" alt="resting_knight" src="https://i.pinimg.com/736x/1f/b5/76/1fb576a5e2fd0b5d75b210efab52e122.jpg">
-  
+<img align="right" width="400" alt="engraving-art" src="https://i.pinimg.com/736x/1f/b5/76/1fb576a5e2fd0b5d75b210efab52e122.jpg">
 <div>
-<img width="590" src="./github-header-image (4).png">
+  
+<img width="450" src="./github-header-image (4).png" alt="LOGO">
 
-  ### About me
-  <p>Hi! I'm <strong>Tomilomi</strong>, an advanced <strong>Systems Engineering student</strong>, passionate about programming and technology.</p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpoY2wzZGh6cnk3cWg5dThjcnZ1b2hqa3QyM3loMWc3eTM0YTM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="170" align="center">
+  <br>
+<!--socials-->
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%40m__ud0-%23FF0069?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fm_ud0%2F" alt="INSTAGRAM">
+<img alt="Static Badge" src="https://img.shields.io/badge/mateodellungo%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DDmwnWtDpKBzcsZwQwtmMWhgJWNxjTMRszrWmnxCFGnGCHqmqSFptjgCFCXGzXJkwdhnqSQRJXQPb" alt="GMAIL">
+<img alt="Static Badge" src="https://img.shields.io/badge/in%2Fmateo--del--lungo-%230066ff?style=flat&logoColor=white&labelColor=%230066ff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-del-lungo-610398210%2F">
+
+
+
+</div>
+
+  <br>
+  <p>I'm <strong>Mateo Del Lungo</strong>, a Software Development student. I have a strong passion for programming so i'm constantly pushing myself to get better and expanding my knowledge.</p>
+  
+
 
   ### Toolset
 
   <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23512BD4?style=flat&logoColor=white" alt="DOTNET">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-%23b300b3?style=flat&logo=sharp&logoColor=white" alt="CSHARP">
+    <img src="https://img.shields.io/badge/Java-%23ff9933?style=flat&logo=java&logoColor=white" alt="JAVA">
+   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%236699ff?style=flat&logo=typescript&logoColor=white" alt="TYPESCRIPT">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23ff3333?style=flat&logo=angular&logoColor=white" alt="ANGULAR">
+
+  </div>
+
+  <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23ECDC5A?style=flat&logo=javascript&logoColor=white" alt="JAVASCRIPT">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%233399ff?style=flat&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+   
   </div>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
-  </div>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   </div>
 
-   ### Repositories
-  <p><em>Check out some of my repositories.</em></p>
-<div>
+   ### Projects
+  <p><em>Check out some of my projects.</em></p>
+  
+   📚[Pharmacy Web-App](https://github.com/Grupo-Prog/TP-Proyecto-Web)
+   <p><em>Fullstack project made for the university, I developed the entire backend with <strong>ASP.NET</strong> using <strong>C#</strong> and implemented <strong>EntityFramework</strong> as an ORM. Additionally, I added a logic layer for authentication in with <strong>JWT</strong></em> </p>
 
-📗 [Tomilomi/java-curso](https://github.com/Tomilomi/java-curso)  
-<p><em>Notes on learning <strong>Java</strong> from scratch, self-taught.</em> </p>
+📚[Todo List Web-App](https://github.com/Mudo0/ToDo-List-API) 🎯(Currently Working)
+   <p>
+     <em>
+       Fullstack project i made alone, with the objective of upgrading my frontend's skills and also learning about software architecture. The API was made with <strong>ASP.NET</strong> implementing authentication, <strong>handlers</strong>, dependency injection, clean architecture and some other minimal improvements for the backend.
+     </em>
+   </p>
 
-📘 [Tomilomi/java-crud-api-rest](https://github.com/Tomilomi/java-crud-api-rest)  
-<p><em>A <strong>REST API</strong> built with <strong>Spring Boot, Hibernate, and PostgreSQL</strong>, with <strong>Docker</strong> support. Includes additional notes.</em></p>
 
-</div>
+
+
 </div>
