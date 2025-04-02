@@ -1,11 +1,12 @@
 <p align="center"><!-- Optional banner goes here--> 
 
-<img  src="./github-header-image (1).png">
+
 </p>
 
 <img align="right" width="400" alt="resting_knight" src="https://i.pinimg.com/736x/1f/b5/76/1fb576a5e2fd0b5d75b210efab52e122.jpg">
   
 <div>
+<img width="580" src="./github-header-image (4).png">
 
   ### About me
   <p>Hi! I'm <strong>Tomilomi</strong>, an advanced <strong>Systems Engineering student</strong>, passionate about programming and technology.</p>
