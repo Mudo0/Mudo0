@@ -6,7 +6,7 @@
 <img align="right" width="400" alt="engraving-art" src="https://i.pinimg.com/736x/1f/b5/76/1fb576a5e2fd0b5d75b210efab52e122.jpg">
 <div>
   <div style="display: flex;">
-<img width="420" src="./github-header-image (4).png" alt="LOGO">
+<img width="400" src="./github-header-image (4).png" alt="LOGO">
     
   </div>
 
