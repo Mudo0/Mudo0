@@ -1,6 +1,6 @@
 <p align="center"><!-- Optional banner goes here--> 
 
-<img src="./assets/banner1280.png" alt="my banner" width="100%">
+<img src="./assets/banner1280.png" alt="my banner" width="90%">
 </p>
 
 
