@@ -48,6 +48,11 @@
 
    ### Projects
   <p><em>Check out some of my projects.</em></p>
+📚El Estanciero: 
+[Backend Repo](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Backend)
+[Frontend Repo](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Frontend)
+<p><em>Full-stack multiplayer strategy game developed in a collaborative environment. I architected the <strong>Java</strong> backend using <strong>Spring Boot</strong>, implementing <strong>WebSockets</strong> for real-time game state synchronization. On the frontend, I leveraged <strong>Angular</strong> with <strong>Tailwind CSS</strong> to create a responsive and dynamic user experience, ensuring seamless interaction between players.</em></p>
+
   
    📚[Pharmacy Web-App](https://github.com/Grupo-Prog/TP-Proyecto-Web)
    <p><em>Fullstack project made for the university, I developed the entire backend with <strong>ASP.NET</strong> using <strong>C#</strong> and implemented <strong>EntityFramework</strong> as an ORM. Additionally, I added a logic layer for authentication in with <strong>JWT</strong></em> </p>
