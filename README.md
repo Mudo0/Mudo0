@@ -49,15 +49,18 @@
    ### Projects
   <p><em>Check out some of my projects.</em></p>
 
+
+📚[Chat in real time](https://chat-collab-frontend.onrender.com) 
+> **Repositories:** [Backend](https://github.com/Tomilomi/chat-in-realtime-collab) | [Frontend](https://github.com/Tomilomi/chat-collab-react)
+  <p><em>Collaborative Full-stack dynamic chat solution built with <strong>C#</strong> and <strong>ASP.NET Core</strong>. I implemented <strong>SignalR</strong> for high-performance, real-time bi-directional communication and integrated a secure <strong>Identity</strong> system for user authentication. The backend architecture follows the <strong>Result Pattern</strong> to ensure predictable error handling and clean business logic. Currently developing a responsive <strong>React</strong> frontend to provide a seamless messaging experience.</em></p>
+  
+
 📚El Estanciero 🎯(Current)
 
 > **Repositories:** [Backend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Backend) | [Frontend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Frontend)
 <p><em>Full-stack multiplayer strategy game developed in a collaborative environment. I architected the <strong>Java</strong> backend using <strong>Spring Boot</strong>, implementing <strong>WebSockets</strong> for real-time game state synchronization. On the frontend, I leveraged <strong>Angular</strong> with <strong>Tailwind CSS</strong> to create a responsive and dynamic user experience, ensuring seamless interaction between players.</em></p>
 
-📚Chat in real time 🎯(Current)
-> **Repositories:** [Backend](https://github.com/Tomilomi/chat-in-realtime-collab)
-  <p><em>Collaborative Full-stack dynamic chat solution built with <strong>C#</strong> and <strong>ASP.NET Core</strong>. I implemented <strong>SignalR</strong> for high-performance, real-time bi-directional communication and integrated a secure <strong>Identity</strong> system for user authentication. The backend architecture follows the <strong>Result Pattern</strong> to ensure predictable error handling and clean business logic. Currently developing a responsive <strong>React</strong> frontend to provide a seamless messaging experience.</em></p>
-  
+
    📚[Pharmacy Web-App](https://github.com/Grupo-Prog/TP-Proyecto-Web)
    <p><em>Fullstack project made for the university, I developed the entire backend with <strong>ASP.NET</strong> using <strong>C#</strong> and implemented <strong>EntityFramework</strong> as an ORM. Additionally, I added a logic layer for authentication in with <strong>JWT</strong></em> </p>
 
