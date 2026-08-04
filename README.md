@@ -52,25 +52,23 @@
    ### Projects
   <p><em>Check out some of my projects.</em></p>
 
+📚[Album App](https://github.com/Mudo0/album-app)🚧(WIP)
+> **Repository:** [album-app](https://github.com/Mudo0/album-app)
+<p><em>A 100% mobile-first <strong>Progressive Web App (PWA)</strong> designed for organizing, editing, and decorating photos inside a interactive digital album using sticker and stamp-style interactions. Focused on delivering an intuitive UI and smooth touch-friendly image manipulation for mobile browsers.</em></p>
 
-📚[Portfolio Bianca](https://biantattoo.pages.dev/)
+
+📚[Portfolio Bianca](https://biantattoo.pages.dev/)🚀
 > **Repository:** [portfolio-bianca](https://github.com/Mudo0/portfolio-bianca)
 <p><em>Portfolio website for tattoo artist <strong>Bianca</strong>. Built with <strong>Angular</strong> and <strong>TypeScript</strong> using <strong>Signals</strong> and OnPush change detection, it features a gallery with lightbox and a contact form integrated with <strong>Google Apps Script</strong>, deployed on <strong>Cloudflare Pages</strong>.</em></p>
 
 
-📚[Pokémon TCG](https://pokemon-tcg-g8-1.onrender.com)
+📚[Pokémon TCG](https://pokemon-tcg-g8-1.onrender.com)🚀
 <p><em>Digital version of the Pokémon Trading Card Game developed as a university project for <strong>UTN</strong>. Built with a <strong>Spring Boot</strong> backend in <strong>Java 21</strong> and an <strong>Angular</strong> frontend, it features a custom game engine that handles turns, attacks, damage calculation, special conditions and victory conditions. Real-time multiplayer synchronization is achieved through <strong>WebSocket</strong>, with <strong>PostgreSQL</strong> for persistence, <strong>Flyway</strong> for database migrations, and <strong>Docker Compose</strong> for containerized infrastructure.</em></p>
 
 
-📚[Chat in real time](https://chat-collab-frontend.onrender.com) 
+📚[Chat in real time](https://chat-collab-frontend.onrender.com)🚀
 > **Repositories:** [Backend](https://github.com/Tomilomi/chat-in-realtime-collab) | [Frontend](https://github.com/Tomilomi/chat-collab-react)
   <p><em>Collaborative Full-stack dynamic chat solution built with <strong>C#</strong> and <strong>ASP.NET Core</strong>. I implemented <strong>SignalR</strong> for high-performance, real-time bi-directional communication and integrated a secure <strong>Identity</strong> system for user authentication. The backend architecture follows the <strong>Result Pattern</strong> to ensure predictable error handling and clean business logic. Currently developing a responsive <strong>React</strong> frontend to provide a seamless messaging experience.</em></p>
   
-
-📚El Estanciero 🎯(Current)
-
-> **Repositories:** [Backend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Backend) | [Frontend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Frontend)
-<p><em>Full-stack multiplayer strategy game developed in a collaborative environment. I architected the <strong>Java</strong> backend using <strong>Spring Boot</strong>, implementing <strong>WebSockets</strong> for real-time game state synchronization. On the frontend, I leveraged <strong>Angular</strong> with <strong>Tailwind CSS</strong> to create a responsive and dynamic user experience, ensuring seamless interaction between players.</em></p>
-
 
 </div>
