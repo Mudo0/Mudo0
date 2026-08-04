@@ -9,8 +9,9 @@
 <!--socials-->
 <div align="center">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/mateodellungo%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DDmwnWtDpKBzcsZwQwtmMWhgJWNxjTMRszrWmnxCFGnGCHqmqSFptjgCFCXGzXJkwdhnqSQRJXQPb" alt="GMAIL">
-<img alt="Static Badge" src="https://img.shields.io/badge/in%2Fmateo--del--lungo-%230066ff?style=flat&logoColor=white&labelColor=%230066ff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-del-lungo-610398210%2F">
+
+[![Gmail](https://img.shields.io/badge/mateodellungo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateodellungo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/in%2Fmateo--del--lungo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-del-lungo)
 
 <a href="https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e"><img src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg" alt="Total time coded since Aug 31 2024" /></a>
 
