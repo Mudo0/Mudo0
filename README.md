@@ -27,7 +27,8 @@
   <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23512BD4?style=flat&logoColor=white" alt="DOTNET">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-%23b300b3?style=flat&logo=sharp&logoColor=white" alt="CSHARP">
-    <img src="https://img.shields.io/badge/Java-%23ff9933?style=flat&logo=java&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/Java-%23ff9933?style=flat&logo=openjdk&logoColor=white" alt="JAVA">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white" alt="SPRINGBOOT">
    <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%236699ff?style=flat&logo=typescript&logoColor=white" alt="TYPESCRIPT">
     <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23ff3333?style=flat&logo=angular&logoColor=white" alt="ANGULAR">
 
@@ -43,11 +44,21 @@
 
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   </div>
 
    ### Projects
   <p><em>Check out some of my projects.</em></p>
+
+
+📚[Portfolio Bianca](https://biantattoo.pages.dev/)
+> **Repository:** [portfolio-bianca](https://github.com/Mudo0/portfolio-bianca)
+<p><em>Portfolio website for tattoo artist <strong>Bianca</strong>. Built with <strong>Angular</strong> and <strong>TypeScript</strong> using <strong>Signals</strong> and OnPush change detection, it features a gallery with lightbox and a contact form integrated with <strong>Google Apps Script</strong>, deployed on <strong>Cloudflare Pages</strong>.</em></p>
+
+
+📚[Pokémon TCG](https://pokemon-tcg-g8-1.onrender.com/welcome)
+<p><em>Digital version of the Pokémon Trading Card Game developed as a university project for <strong>UTN</strong>. Built with a <strong>Spring Boot</strong> backend in <strong>Java 21</strong> and an <strong>Angular</strong> frontend, it features a custom game engine that handles turns, attacks, damage calculation, special conditions and victory conditions. Real-time multiplayer synchronization is achieved through <strong>WebSocket</strong>, with <strong>PostgreSQL</strong> for persistence, <strong>Flyway</strong> for database migrations, and <strong>Docker Compose</strong> for containerized infrastructure.</em></p>
 
 
 📚[Chat in real time](https://chat-collab-frontend.onrender.com) 
@@ -59,12 +70,6 @@
 
 > **Repositories:** [Backend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Backend) | [Frontend](https://github.com/Grupo-Prog/Proyecto-EstancieroWebApp-Frontend)
 <p><em>Full-stack multiplayer strategy game developed in a collaborative environment. I architected the <strong>Java</strong> backend using <strong>Spring Boot</strong>, implementing <strong>WebSockets</strong> for real-time game state synchronization. On the frontend, I leveraged <strong>Angular</strong> with <strong>Tailwind CSS</strong> to create a responsive and dynamic user experience, ensuring seamless interaction between players.</em></p>
-
-
-   📚[Pharmacy Web-App](https://github.com/Grupo-Prog/TP-Proyecto-Web)
-   <p><em>Fullstack project made for the university, I developed the entire backend with <strong>ASP.NET</strong> using <strong>C#</strong> and implemented <strong>EntityFramework</strong> as an ORM. Additionally, I added a logic layer for authentication in with <strong>JWT</strong></em> </p>
-
-
 
 
 </div>
