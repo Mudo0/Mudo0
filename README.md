@@ -57,7 +57,7 @@
 <p><em>Portfolio website for tattoo artist <strong>Bianca</strong>. Built with <strong>Angular</strong> and <strong>TypeScript</strong> using <strong>Signals</strong> and OnPush change detection, it features a gallery with lightbox and a contact form integrated with <strong>Google Apps Script</strong>, deployed on <strong>Cloudflare Pages</strong>.</em></p>
 
 
-📚[Pokémon TCG](https://pokemon-tcg-g8-1.onrender.com/welcome)
+📚[Pokémon TCG](https://pokemon-tcg-g8-1.onrender.com)
 <p><em>Digital version of the Pokémon Trading Card Game developed as a university project for <strong>UTN</strong>. Built with a <strong>Spring Boot</strong> backend in <strong>Java 21</strong> and an <strong>Angular</strong> frontend, it features a custom game engine that handles turns, attacks, damage calculation, special conditions and victory conditions. Real-time multiplayer synchronization is achieved through <strong>WebSocket</strong>, with <strong>PostgreSQL</strong> for persistence, <strong>Flyway</strong> for database migrations, and <strong>Docker Compose</strong> for containerized infrastructure.</em></p>
 
 
