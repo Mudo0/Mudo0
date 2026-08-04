@@ -8,7 +8,7 @@
   <br>
 <!--socials-->
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%40m__ud0-%23FF0069?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fm_ud0%2F" alt="INSTAGRAM">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/mateodellungo%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DDmwnWtDpKBzcsZwQwtmMWhgJWNxjTMRszrWmnxCFGnGCHqmqSFptjgCFCXGzXJkwdhnqSQRJXQPb" alt="GMAIL">
 <img alt="Static Badge" src="https://img.shields.io/badge/in%2Fmateo--del--lungo-%230066ff?style=flat&logoColor=white&labelColor=%230066ff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-del-lungo-610398210%2F">
 
